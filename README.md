@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Project-Page-pink?style=flat&logo=Google%20chrome&logoColor=pink'></a>
   <!-- <a href='https://youtu.be/0a0ZYJgzdWE'>
   <img src='https://img.shields.io/badge/YouTube-Video-EA3323?style=flat&logo=youtube&logoColor=EA3323'></a> -->
-  <a href='https://github.com/IDEA-Research/Motion-X'>
+  <a href='https://github.com/KenkunLiu/HMNeRFBench_release'>
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a>
   <!-- <a href='LICENSE'>
     <img src='https://img.shields.io/badge/License-IDEA-blue.svg'>
