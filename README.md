@@ -142,7 +142,7 @@ Comparisons of recent NeRF-based human rendering methods on different aspects. I
 
 ## Benchmarking Generalizable Methods (Coming soon...)
 
-## [GeneHumanNeRF: Animatable and Generalizable Human NeRF from Monocular Videos](animation/GeneHumanNeRF/)
+## [GeneHumanNeRF: Animatable and Generalizable Human NeRF from Monocular Videos](Animation/GeneHumanNeRF/)
 
 ## 🤝 Citation  
 
